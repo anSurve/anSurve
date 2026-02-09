@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Aniket Surve
 
-I’m a **Senior Data Engineer** with **9+ years of experience** building scalable, reliable, and cloud‑native data platforms. I enjoy turning messy, high‑volume data into clean, analytics‑ready assets that actually help businesses make decisions.
+I’m a **Lead Data Engineer** with **9+ years of experience** building scalable, reliable, and cloud‑native data platforms. I enjoy turning messy, high‑volume data into clean, analytics‑ready assets that actually help businesses make decisions.
 
 I currently work across **AWS and Azure**, designing end‑to‑end data pipelines, modern lakehouse architectures, and performance‑optimized analytics solutions.
 
